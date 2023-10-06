@@ -1,0 +1,3 @@
+-[] Create a simple UI
+-[] Connect to the youtube API
+-[] Dialog pops up with a label Playlist ID
